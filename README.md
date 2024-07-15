@@ -1,5 +1,7 @@
 # React + TypeScript + Vite
 
+Puedes usar este link https://luisorea.github.io/Rick-Morty-Web/ para ver la pagina web sin necesidad de descargar.
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
