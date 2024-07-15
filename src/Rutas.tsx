@@ -8,7 +8,7 @@ import Home from "./Pages/Home/Home";
 
 const Rutas: FC = () => {
   return (
-    <Router>
+    <Router basename="/Rick-Morty-Web">
       <Routes>
         <Route path="/" element={<Presentacion />} />
         <Route path="/Pages/Login" element={<Login />} />
